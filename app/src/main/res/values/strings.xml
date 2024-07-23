@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NumberConverterApp</string>
+    <string-array name="units">
+        <item>meters to kilometers</item>
+        <item>kilograms to grams</item>
+    </string-array>
+</resources>
